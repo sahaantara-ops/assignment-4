@@ -1,0 +1,127 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+
+.body{
+
+  margin: 0  auto;
+}
+
+.header{
+  width: 1820px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.container{display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 30px 24px 30px 24px;
+  
+}
+.nav-bar{
+  width: 195px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+ 
+}
+.logo{
+  width: 50px;
+  height: 50px;
+ 
+}
+.nav-text{
+  font-size: 20px;
+  font-weight: 800;
+  color: #006747;
+}
+.contents{
+  width: 397px;
+  height: 52px;
+  display: flex;
+}
+.div-container{
+  display: flex;
+  width: 397px;
+  height: 52px;
+  justify-content: space-between;
+}
+.text{
+  width: 12px;
+  height: 10px;
+  
+}
+.first{
+  width: 123px;
+  height: 52px;
+  border-radius: 50px;
+  background-color: #41FF6B;
+  display: flex;
+  align-items: center;
+}
+.second{
+  width: 100px;
+  height: 52px;
+  border-radius: 50px;
+  background-color: #41FF6B;
+  display: flex;
+  
+  
+}
+.third{
+  width: 127px;
+  height: 52px;
+  align-items: center;
+  border-radius: 50px;
+  background-color: #00A63E;
+}
+.text-1{
+  color: white;
+}
+.icon{
+  width: 20px;
+  height: 22px;
+}
+.banner{
+  width: 1920px;
+  height: 239px;
+  background-color: #006747;
+  display: flex;
+  justify-content: space-between;
+}
+.banner-item{
+  max-width: 1920px;
+  height: 239px;
+  text-align: center;
+  gap: 5px;
+  padding: 12px 60px 12px 60px;
+  margin: 0 auto;
+}
+.logo-1{
+  width: 90px;
+  height: 90px;
+}
+.banner-text{
+  width: 1800px;
+  height: 55px;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0;
+}
+.banner-text-1{
+  width: 1800px;
+  height: 28px;
+  color: white;
+  font-size: 19px;
+  font-weight: 400;
+  margin: 0;
+}
